@@ -1,0 +1,109 @@
+[{
+	"state_id": 11,
+	"name": "Rondônia",
+	"abbreviation": "RO"
+}, {
+	"state_id": 12,
+	"name": "Acre",
+	"abbreviation": "AC"
+}, {
+	"state_id": 13,
+	"name": "Amazonas",
+	"abbreviation": "AM"
+}, {
+	"state_id": 14,
+	"name": "Roraima",
+	"abbreviation": "RR"
+}, {
+	"state_id": 15,
+	"name": "Pará",
+	"abbreviation": "PA"
+}, {
+	"state_id": 16,
+	"name": "Amapá",
+	"abbreviation": "AP"
+}, {
+	"state_id": 17,
+	"name": "Tocantins",
+	"abbreviation": "TO"
+}, {
+	"state_id": 21,
+	"name": "Maranhão",
+	"abbreviation": "MA"
+}, {
+	"state_id": 22,
+	"name": "Piauí",
+	"abbreviation": "PI"
+}, {
+	"state_id": 23,
+	"name": "Ceará",
+	"abbreviation": "CE"
+}, {
+	"state_id": 24,
+	"name": "Rio Grande do Norte",
+	"abbreviation": "RN"
+}, {
+	"state_id": 25,
+	"name": "Paraíba",
+	"abbreviation": "PB"
+}, {
+	"state_id": 26,
+	"name": "Pernambuco",
+	"abbreviation": "PE"
+}, {
+	"state_id": 27,
+	"name": "Alagoas",
+	"abbreviation": "AL"
+}, {
+	"state_id": 28,
+	"name": "Sergipe",
+	"abbreviation": "SE"
+}, {
+	"state_id": 29,
+	"name": "Bahia",
+	"abbreviation": "BA"
+}, {
+	"state_id": 31,
+	"name": "Minas Gerais",
+	"abbreviation": "MG"
+}, {
+	"state_id": 32,
+	"name": "Espírito Santo",
+	"abbreviation": "ES"
+}, {
+	"state_id": 33,
+	"name": "Rio de Janeiro",
+	"abbreviation": "RJ"
+}, {
+	"state_id": 35,
+	"name": "São Paulo",
+	"abbreviation": "SP"
+}, {
+	"state_id": 41,
+	"name": "Paraná",
+	"abbreviation": "PR"
+}, {
+	"state_id": 42,
+	"name": "Santa Catarina",
+	"abbreviation": "SC"
+}, {
+	"state_id": 43,
+	"name": "Rio Grande do Sul",
+	"abbreviation": "RS"
+}, {
+	"state_id": 50,
+	"name": "Mato Grosso do Sul",
+	"abbreviation": "MS"
+}, {
+	"state_id": 51,
+	"name": "Mato Grosso",
+	"abbreviation": "MT"
+}, {
+	"state_id": 52,
+	"name": "Goiás",
+	"abbreviation": "GO"
+}, {
+	"state_id": 53,
+	"name": "Distrito Federal",
+	"abbreviation": "DF"
+}]
