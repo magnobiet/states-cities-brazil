@@ -1,9 +1,7 @@
 # Estados e Cidades do Brasil
-
-Este database foi criado usando informações do [Instituto Brasileiro de Geografia e Estatística](http://www.cidades.ibge.gov.br/).
+Esta base foi criada com informações do [Instituto Brasileiro de Geografia e Estatística](http://www.cidades.ibge.gov.br/).
 
 ## Diagrama
-
 ![EER Diagram](https://raw.githubusercontent.com/magnobiet/states-cities-brazil/master/eer-diagram.png)
 
 ## Última atualização
