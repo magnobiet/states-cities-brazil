@@ -4,11 +4,11 @@ Esta base foi criada com informações do [Instituto Brasileiro de Geografia e E
 
 ## Formatos disponíveis
 
-- CSV
-- HTML
-- JSON
-- PHP
-- SQL
+- [CSV](https://github.com/magnobiet/states-cities-brazil/tree/master/CSV)
+- [HTML](https://github.com/magnobiet/states-cities-brazil/tree/master/HTML)
+- [JSON](https://github.com/magnobiet/states-cities-brazil/tree/master/JSON)
+- [PHP](https://github.com/magnobiet/states-cities-brazil/tree/master/PHP)
+- [SQL](https://github.com/magnobiet/states-cities-brazil/tree/master/SQL)
 
 ## Links úteis
 
