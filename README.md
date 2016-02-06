@@ -7,7 +7,7 @@ Esta base foi criada com informações do [Instituto Brasileiro de Geografia e E
 - [CSV](https://github.com/magnobiet/states-cities-brazil/tree/master/CSV)
 - [HTML](https://github.com/magnobiet/states-cities-brazil/tree/master/HTML)
 - [JSON](https://github.com/magnobiet/states-cities-brazil/tree/master/JSON)
-- [PHP](https://github.com/magnobiet/states-cities-brazil/tree/master/PHP)
+- [PHP](https://github.com/magnobiet/states-cities-brazil/tree/master/PHP) ([Laravel](https://github.com/magnobiet/laravel-states-cities-brazil))
 - [SQL](https://github.com/magnobiet/states-cities-brazil/tree/master/SQL)
 
 ## Links úteis
