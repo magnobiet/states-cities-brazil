@@ -19,5 +19,5 @@ Esta base foi criada com informações do [Instituto Brasileiro de Geografia e E
 05/02/2016
 
 ## Licença
-[The MIT License](http://magno.mit-license.org/2014)
 
+Este projeto está licenciado sob a [MIT License](http://magno.mit-license.org/2014). Copyright © Magno Biét
