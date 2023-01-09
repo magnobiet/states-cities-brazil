@@ -12,8 +12,8 @@ Esta base foi criada com informações do [Instituto Brasileiro de Geografia e E
 
 ## Links úteis
 
-- Consulta por Município (http://www.ibge.gov.br/home/geociencias/areaterritorial/area.shtm)
-- GeoFTP (ftp://geoftp.ibge.gov.br/)
+- Portal Cidades do IBGE (https://cidades.ibge.gov.br/)
+- API de localidades do IBGE (https://servicodados.ibge.gov.br/api/docs/localidades)
 
 ## Última atualização
 05/02/2016
